@@ -18,7 +18,7 @@
 
 ## Screenshot
 ### Tampilan Utama (List Produk)
-('assets/Screenshot 2026-04-24 181022.png')
+(assets/Screenshot 2026-04-24 181022.png)
 
 ### Tampilan Search — saat ada hasil
 [assets/Screenshot 2026-04-24 181048.png]
