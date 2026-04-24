@@ -18,7 +18,7 @@
 
 ## Screenshot
 ### Tampilan Utama (List Produk)
-[screenshot HP fisik di sini]
+[https://github.com/manisha53708/pemmobile-p06-Manisha/blob/main/assets/Screenshot%202026-04-24%20181022.png]
 
 ### Tampilan Search — saat ada hasil
 [screenshot HP fisik di sini]
