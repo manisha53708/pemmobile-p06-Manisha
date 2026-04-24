@@ -21,10 +21,10 @@
 ![Tampilan Utama](assets/P1.png)
 
 ### Tampilan Search — saat ada hasil
-[assets/Screenshot 2026-04-24 181048.png]
+![Tampilan Search](assets/Screenshot%202026-04-24%20181048.png)
 
 ### Tampilan Empty State — saat tidak ada hasil
-[assets/Screenshot 2026-04-24 181725.png]
+![Empty State](assets/Screenshot%202026-04-24%20181725.png)
 
 ## Cara Menjalankan
 1. Clone repo  : git clone [url-repo-kamu]
