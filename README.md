@@ -18,13 +18,13 @@
 
 ## Screenshot
 ### Tampilan Utama (List Produk)
-[https://github.com/manisha53708/pemmobile-p06-Manisha/blob/main/assets/Screenshot%202026-04-24%20181022.png]
+[assets/Screenshot 2026-04-24 181022.png]
 
 ### Tampilan Search — saat ada hasil
-[screenshot HP fisik di sini]
+[assets/Screenshot 2026-04-24 181048.png]
 
 ### Tampilan Empty State — saat tidak ada hasil
-[screenshot HP fisik di sini]
+[assets/Screenshot 2026-04-24 181725.png]
 
 ## Cara Menjalankan
 1. Clone repo  : git clone [url-repo-kamu]
